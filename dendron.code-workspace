@@ -4,9 +4,6 @@
             "path": "dependencies/github.com/sjaakjules/megaflora"
         },
         {
-            "path": "dependencies/github.com/sjaakjules/Plants-as-CoDesigners"
-        },
-        {
             "path": "notes",
             "name": "MainDendron"
         }
