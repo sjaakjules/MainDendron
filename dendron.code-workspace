@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/github.com/sjaakjules/Plants-as-CoDesigners/notes",
+            "name": "Plants-as-CoDesigners"
+        },
+        {
             "path": "dependencies/github.com/sjaakjules/megaflora"
         },
         {

@@ -22,6 +22,14 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/github.com/sjaakjules/Plants-as-CoDesigners
+            sync: sync
+            remote:
+                type: git
+                url: https://github.com/sjaakjules/Plants-as-CoDesigners
+            selfContained: true
+            name: Plants-as-CoDesigners
+        -
             fsPath: dependencies/github.com/sjaakjules/megaflora
             sync: noCommit
             remote:
@@ -120,3 +128,4 @@ publishing:
         payload:
             - MainDendron
             - megaflora
+            - Plants-as-CoDesigners
