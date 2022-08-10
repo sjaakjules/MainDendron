@@ -22,7 +22,22 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/github.com/sjaakjules/megaflora
+            sync: noCommit
+            remote:
+                type: git
+                url: https://github.com/sjaakjules/megaflora
+            name: megaflora
+        -
+            fsPath: dependencies/github.com/sjaakjules/Plants-as-CoDesigners
+            sync: sync
+            remote:
+                type: git
+                url: https://github.com/sjaakjules/Plants-as-CoDesigners
+            name: Plants-as-CoDesigners
+        -
             fsPath: .
+            sync: sync
             selfContained: true
             name: MainDendron
     journal:
@@ -107,3 +122,9 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - Plants-as-CoDesigners
+            - MainDendron
+            - megaflora

@@ -2,10 +2,14 @@
 id: fbddbk8zxp7djrk30fj3mgc
 title: Root
 desc: ""
-updated: 1660038214829
+updated: 1660089117201
 created: 1660025414261
 ---
 
-# Welcome to Dendron
+# Master Dendron
 
-This is the root of this dendron vault.
+This is the master dendron project folder. It is the collection of projects which @JulianRutten is involved in. Such projects are:
+
+- Making Places for Plants
+- MegaFlora
+- DeepDesignLab

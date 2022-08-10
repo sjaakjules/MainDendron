@@ -4,3 +4,5 @@ build
 seeds
 .next
 pods/service-connections
+dependencies/github.com/sjaakjules/Plants-as-CoDesigners
+dependencies/github.com/sjaakjules/megaflora
