@@ -11,7 +11,7 @@ schemas:
         - pattern: "[0-2][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]"
           title: year
           template:
-            desc: Meeting Notes
+            desc: "Meeting Notes"
             id: templates.meeting
             title: Meeting Note
             type: note
