@@ -112,6 +112,8 @@ publishing:
     seo:
         title: Dendron
         description: Personal Knowledge Space
+    assetsPrefix: /MainDendron
+    siteUrl: https://sjaakjules.github.io
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
@@ -129,3 +131,6 @@ publishing:
             - MainDendron
             - megaflora
             - Plants-as-CoDesigners
+    hierarchy:
+        root:
+            publishByDefault: true
