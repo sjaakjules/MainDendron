@@ -2,7 +2,7 @@
 id: 4digst17jue5u27xat2i4hb
 title: 2022 08 11
 desc: ""
-updated: 1660193035590
+updated: 1661393191005
 created: 1660038112278
 ---
 
@@ -107,8 +107,8 @@ Standard template for each provocation
 ## Action Items <!-- Action items to be taken by specific attendees -->
 
 - [x] Chase up access to CAPP
-- [ ] Send review deferral forms once access to CAPP is given.
-- [ ] Revise Capabilities mapping.
+- [x] Send review deferral forms once access to CAPP is given.
+- [x] Revise Capabilities mapping.
 - [ ] Map projects, make full scope of taxonomy, show subset used in provocations.
 - [ ] Review projects with updated capabilities in writing. example and demonstrations.
 - [ ] Review provocations with capabilities. show what is extended and why its important (the so what).
